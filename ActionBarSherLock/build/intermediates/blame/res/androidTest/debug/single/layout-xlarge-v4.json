@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/atlas_huang/Documents/Github/LibraryIncludeTest/ActionBarSherLock/build/intermediates/res/merged/androidTest/debug/layout-xlarge-v4/abs__screen_action_bar.xml",
+        "source": "/Users/atlas_huang/Documents/Github/LibraryIncludeTest/ActionBarSherLock/build/intermediates/bundles/debug/res/layout-xlarge-v4/abs__screen_action_bar.xml"
+    },
+    {
+        "merged": "/Users/atlas_huang/Documents/Github/LibraryIncludeTest/ActionBarSherLock/build/intermediates/res/merged/androidTest/debug/layout-xlarge-v4/abs__screen_action_bar_overlay.xml",
+        "source": "/Users/atlas_huang/Documents/Github/LibraryIncludeTest/ActionBarSherLock/build/intermediates/bundles/debug/res/layout-xlarge-v4/abs__screen_action_bar_overlay.xml"
+    }
+]

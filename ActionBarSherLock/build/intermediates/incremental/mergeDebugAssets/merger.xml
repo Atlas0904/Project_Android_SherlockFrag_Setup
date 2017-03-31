@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="/Users/atlas_huang/Documents/Github/LibraryIncludeTest/ActionBarSherLock/src/main/assets"/><source path="/Users/atlas_huang/Documents/Github/LibraryIncludeTest/ActionBarSherLock/build/generated/assets/shaders/debug"/></dataSet><dataSet config="debug"><source path="/Users/atlas_huang/Documents/Github/LibraryIncludeTest/ActionBarSherLock/src/debug/assets"/></dataSet></merger>
